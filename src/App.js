@@ -160,7 +160,7 @@ function App() {
             value={loginData.email}
             onChange={handleLoginChange}
           />
-          <button type="submit">Login</button>
+          <button type="submit">Seeni!</button>
         </form>
       )}
 
