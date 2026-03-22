@@ -131,7 +131,7 @@ function App() {
           <p style={{ color: "green" }}>{message}</p>
 
           <p>
-            Don't have account?{" "}
+            Donot have account?{" "}
             <button onClick={() => setCurrentPage("signup")}>
               Sign Up
             </button>
